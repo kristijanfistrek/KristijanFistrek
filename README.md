@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kristijan Fištrek</h1>
-<h3 align="center">An enthusiastic front-end developer working as a back-end developer with passion towards game development...yeah.</h3>
+<h3 align="center">An enthusiastic front-end developer working as a back-end developer with passion towards game development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanbrickwell&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanbrickwell" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **developing python applications full time on my current role, working on side projects using front-end technologies such as Angular and React while designing/developing games in Unity with my brother.**
 
-- 🌱 I’m currently learning **I'm always updating my knowledge of modern JavaScript frameworks and my never-ending and always ongoing pursuit of learning as much Unity as I can.**
+- 🌱 I’m currently learning **updating my knowledge of modern JavaScript frameworks and my never-ending and always ongoing pursuit of learning as much Unity as I can.**
 
-- 👯 I’m looking to collaborate on **basically anything front-end or back-end related...or Unity...**
+- 👯 I’m looking to collaborate on **basically anything front-end or back-end related - or Unity.**
 
 - 🤝 I’m looking for help with **Angular/React or Unity projects.**
 
