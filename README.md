@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kristijan Fištrek</h1>
-<h3 align="center">An enthusiastic front-end developer working as a back-end developer with passion towards game development. Yeah, I know it's a bit much. I love to develop!</h3>
+<h3 align="center">An enthusiastic front-end developer working as a back-end developer with passion towards game development. Yeah, I know it's a bit much, but I love to develop!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanbrickwell&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanbrickwell" /> </p>
 
