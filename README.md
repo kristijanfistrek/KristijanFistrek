@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kristijan Fištrek</h1>
-<h3 align="center">An enthusiastic front-end developer, aspiring backend developer. I am highly passionate towards learning more about software architecture and design, developing digital products from the ground up, which be seen (more transparently) [https://github.com/CodeITLab](on my organization page)</h3>
+<h3 align="center">An enthusiastic front-end developer, aspiring backend developer. I am highly passionate towards learning more about software architecture and design, developing digital products from the ground up, which be seen (more transparently) </h3>[https://github.com/CodeITLab](on my organization page)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanbrickwell&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanbrickwell" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonathanbrickwell" alt="jonathanbrickwell" /></a> </p>
 
-- 🔭 I’m currently working on **developing python applications full time on my current role, working on side projects using front-end technologies such as Angular and React while designing/developing games in Unity with my brother.**
+- 🔭 I’m currently working as **a front end developer in a bank. However, I am learning and building REST API services, on several other projects, using Java (Spring Boot).**
 
-- 🌱 I’m currently learning **updating my knowledge of modern JavaScript frameworks and my never-ending and always ongoing pursuit of learning as much Unity as I can.**
+- 🌱 I’m currently learning **updating my knowledge of modern JavaScript frameworks and my never-ending and always ongoing pursuit of learning algorithms & software architecture as I can.**
 
-- 👯 I’m looking to collaborate on **basically anything front-end or back-end related - or Unity.**
+- 👯 I’m looking to collaborate on **basically anything front-end or back-end related.**
 
-- 🤝 I’m looking for help with **Angular/React or Unity projects.**
+- 🤝 I’m looking for help with **Angular/React or Java projects.**
 
 - 👨‍💻 All of my projects are available at [https://kristijan-fistrek.from.hr/](https://kristijan-fistrek.from.hr/)
 
