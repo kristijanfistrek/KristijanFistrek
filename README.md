@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **basically anything front-end or back-end related.**
 
-- 🤝 I’m looking for help with **Angular/React or Java projects.**
+- 🤝 I’m looking for help with **Angular/React/Vue or Java projects.**
 
 - 👨‍💻 All of my projects are available at [https://kristijan-fistrek.from.hr/](https://kristijan-fistrek.from.hr/)
 
