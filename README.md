@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **a front end developer in a bank. However, I am learning and building REST API services, on several other projects, using Java (Spring Boot).**
 
-- 🌱 I’m currently learning **updating my knowledge of modern JavaScript frameworks and my never-ending and always ongoing pursuit of learning algorithms & software architecture as I can.**
+- 🌱 I’m currently learning **updating my knowledge of modern JavaScript frameworks and my never-ending and always ongoing pursuit of learning algorithms & software architecture as much as I can.**
 
 - 👯 I’m looking to collaborate on **basically anything front-end or back-end related.**
 
