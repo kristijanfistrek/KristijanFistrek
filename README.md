@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kristijan Fištrek</h1>
-<h4 align="center">An enthusiastic front-end developer, aspiring backend developer. I am highly passionate towards learning more about software architecture and design, developing digital products from the ground up, which be seen (more transparently) <a href="https://github.com/CodeITLab">organization page</a> </h4>
+<h4 align="center">An enthusiastic front-end developer, aspiring backend developer. I am highly passionate towards learning more about software architecture and design, developing digital products from the ground up, which be seen (more transparently) <a href="https://github.com/CodeITLab">organization page - Code IT Lab</a> </h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanbrickwell&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanbrickwell" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonathanbrickwell" alt="jonathanbrickwell" /></a> </p>
+<p>A little bit more about me:</p>
 
 - 🔭 I’m currently working as **a front end developer in a bank. However, I am learning and building REST API services, on several other projects, using Java (Spring Boot).**
 
