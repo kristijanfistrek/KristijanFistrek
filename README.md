@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kristijanfistrek" alt="kristijanfistrek" /></a> </p>
 
-- 🔭 I’m currently working as a **frontend developer in a bank, However, I am learning and building REST API services, on several other projects, using Java (Spring Boot).**
+- 🔭 I’m currently working as a **frontend developer in a bank (React & Angular), However, I am learning and building REST API services, on several other projects, using Java (Spring Boot).**
 
 - 🌱 I’m currently learning **Vue & Java - along with constatly improving my knowledge of algorithms, software design & architecture.**
 
